@@ -1,4 +1,4 @@
-#  Pixar Film Performance Dashboard (1995–2023)
+#  Pixar Film Performance Dashboard (1995–2024)
 
 This dashboard provides an in-depth analysis of the performance of Pixar Animation Studios films released between 1995 and 2023. The project explores the relationship between Return on Investment (ROI), total revenue, critic scores, and yearly revenue trends.
 
