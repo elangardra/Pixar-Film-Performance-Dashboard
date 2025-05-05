@@ -45,3 +45,7 @@ Pixar is one of the most renowned animation studios globally. While most of its 
 - **Power BI** – for building interactive visualizations
 - **Power Query** – for data cleaning and preparation
 
+##  Live Dashboard
+
+You can explore the interactive Pixar Film Performance Dashboard online here:  
+[🔗 View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjY0ZjQ3OWItMDc2Yy00NDI2LWIxYTEtMDY5NTBlN2Y2ZTZlIiwidCI6ImM2NmUxODMzLWY2M2UtNGI5Zi05NDc5LWZhMDdiY2NhMTAzMyIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true)
