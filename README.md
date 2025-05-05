@@ -28,7 +28,7 @@ Pixar is one of the most renowned animation studios globally. While most of its 
 - **Top 5 Score Films**: Displays the highest-rated films by critic score.
 - **Top 5 ROI Films**: Shows films with the highest Return on Investment.
 - **Top 5 Revenue Films**: Highlights films with the highest box office revenue.
-- **Annual Revenue Trend (1995–2023)**: Shows year-by-year revenue performance, identifying peaks and dips.
+- **Annual Revenue Trend (1995–2024)**: Shows year-by-year revenue performance, identifying peaks and dips.
 - **Film Detail Table**: Includes ROI, revenue, critic scores, producer names, and runtime.
 
 
